@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aakash-18
-- 👀 I’m interested in Coding 
+- 👀 I’m interested in Web Development , Learning React because of it.
 - 🌱 I’m currently pursuing Masters in Data Science at PSG College of Technology 
 - 📫 How to reach me ...@ aakash35272@gmail.com
 
