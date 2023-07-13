@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aakash-18
-- 👀 I’m an Aspiring Web Developer , Skilled in React, Nodejs , SpringBoot, Flask.
-- 🌱 I’m currently pursuing Masters in Data Science at PSG College of Technology 
+- 👀 I’m an Aspiring Software Developer, Skilled in Android, React, Nodejs, SpringBoot, Flask.
+- 🌱 I have completed my Master's in Data Science at PSG College of Technology.
 - 📫 How to reach me ...@ aakash35272@gmail.com
 
 <!---
